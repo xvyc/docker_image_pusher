@@ -8,5 +8,7 @@ zack357/douban-tool:latest
 ljnpng/nastools:2.9.0
 jellyfin/jellyfin:latest
 flik007/nastools-fixed
+linuxserver/qbittorrent
+chisbread/transmission
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
