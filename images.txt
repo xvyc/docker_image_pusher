@@ -7,5 +7,6 @@ gdy666/lucky:latest
 zack357/douban-tool:latest
 ljnpng/nastools:2.9.0
 jellyfin/jellyfin:latest
+flik007/nastools-fixed
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
