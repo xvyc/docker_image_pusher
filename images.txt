@@ -14,5 +14,4 @@ emby/embyserver:latest
 yt-dlp/yt-dlp:latest
 hanxi/xiaomusic:latest
 #支持指定架构
-
 --platform=linux/arm64 xiaoyaliu/alist
