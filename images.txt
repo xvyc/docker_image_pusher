@@ -1,5 +1,4 @@
 nginx
-#支持私库
 xhofe/alist:latest
 jeessy/ddns-go:latest
 gdy666/lucky:latest
@@ -13,5 +12,4 @@ chisbread/transmission:latest
 emby/embyserver:latest
 yt-dlp/yt-dlp:latest
 hanxi/xiaomusic:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+
