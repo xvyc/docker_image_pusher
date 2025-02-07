@@ -10,6 +10,5 @@ linuxserver/qbittorrent:latest
 chisbread/transmission:latest
 6053537/portainer-ce:latest
 emby/embyserver:latest
-yt-dlp/yt-dlp:latest
 hanxi/xiaomusic:latest
 
