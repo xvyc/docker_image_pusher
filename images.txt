@@ -11,4 +11,4 @@ chisbread/transmission:latest
 6053537/portainer-ce:latest
 emby/embyserver:latest
 hanxi/xiaomusic:latest
-
+koodo-reader/koodo-reader:latest
